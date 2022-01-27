@@ -1,9 +1,3 @@
-In the project directory, you can run:
-
+# NewsBuzz app
+News Buzz is a News app developed in react.js. This app uses News API to fetch news using fetch method. Reactrouter and Infinite scroll is enabled in this app.
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
